@@ -7,10 +7,10 @@
         "laravel",
         "filament"
     ],
-    "homepage": "https://github.com/bit-es/base",
+    "homepage": "https://github.com/bit-es/icons",
     "support": {
-        "issues": "https://github.com/bit-es/base/issues",
-        "source": "https://github.com/bit-es/base"
+        "issues": "https://github.com/bit-es/icons/issues",
+        "source": "https://github.com/bit-es/icons"
     },
     "license": "MIT",
     "authors": [
